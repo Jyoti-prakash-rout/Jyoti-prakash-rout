@@ -2,7 +2,7 @@
 
  I'm an Web Dev Enthusiasts & a junior pursuing my Bachelors in Computer Science & Engineering. I'm interested in Web Dev, IOS Dev, Machine Learning, Kubernets, Devops & I enjoy learning new things & stuff as well as I'm a Frontend Devloper with experience building Dynamic & Static Web pages.
 
-[![Linkedin Badge](https://img.shields.io/badge/-jyotiprakashrout-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyoti-prakash-rout)](https://www.linkedin.com/in/kaiwalyakoparkar/)
+[![Linkedin Badge](https://img.shields.io/badge/-jyotiprakashrout-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyoti-prakash-rout)](https://www.linkedin.com/in/jyoti-prakash-rout/)
 [![Instagram Badge](https://img.shields.io/badge/-jyotiprakash.rout-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/codeistjoke/)](https://instagram.com/kaiwalya.koparkar)
 [![Hashnode Badge](https://img.shields.io/badge/-@jyotiprakashrout-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://jyoti-prakash-rout.hashnode.dev/)](https://jyoti-prakash-rout.hashnode.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-jyotiprakashrout574@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyotiprakashrout574@gmail.com)](mailto:jyotiprakashrout@gmail.com)
