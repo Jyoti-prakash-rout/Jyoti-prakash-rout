@@ -23,6 +23,8 @@
 
 
 ## 📈 Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyoti-prakash-rout&show_icons=true&locale=en" alt="jyoti-prakash-rout" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyoti-prakash-rout&" alt="jyoti-prakash-rout" /></p>
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jyoti-prakash-rout&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jyoti-prakash-rout&theme=tokyonight" />
+</p>
