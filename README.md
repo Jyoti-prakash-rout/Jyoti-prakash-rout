@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-jyotiprakashrout-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyoti-prakash-rout)](https://www.linkedin.com/in/jyoti-prakash-rout/)
 [![Instagram Badge](https://img.shields.io/badge/-jyotiprakash.rout-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/codeistjoke/)](https://www.instagram.com/codeistjoke/)
 [![Hashnode Badge](https://img.shields.io/badge/-@jyotiprakashrout-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://jyoti-prakash-rout.hashnode.dev/)](https://jyoti-prakash-rout.hashnode.dev/)
-[![Gmail Badge](https://img.shields.io/badge/-jyotiprakashrout574@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyotiprakashrout574@gmail.com)](mailto:jyotiprakashrout@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jyotiprakashrout574@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyotiprakashrout574@gmail.com)](mailto:jyotiprakashrout574@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://jyotiprakashrout-link/)](https:/jyotiprakashrout-link/)
 [![Youtube Badge](https://img.shields.io/badge/-Jyotiprakah%20Rout-darkred?style=flat-square&logo=youtube&logoColor=white&link=https:https://www.youtube.com/channel/UCGdAHESH2emgIHv4I98u8Cg)](https://https://www.youtube.com/channel/UCGdAHESH2emgIHv4I98u8Cg)
 
