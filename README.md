@@ -22,6 +22,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 
+
+![trained_dino](https://user-images.githubusercontent.com/85782825/137858298-48fbbd6e-9052-446b-8a12-9095b2a26715.gif)
+
+
 ## 📈 Stats
 <p align="center">
 	
