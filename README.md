@@ -26,6 +26,11 @@
 ![trained_dino](https://user-images.githubusercontent.com/85782825/137858298-48fbbd6e-9052-446b-8a12-9095b2a26715.gif)
 
 
+## ⚡ More about my Coding Life :
+
+
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f565474414e4b6c306265444651524c4454682f67697068792e676966](https://user-images.githubusercontent.com/85782825/137878929-78f23f18-1d13-4f53-9a5e-88431b0f65a3.gif)
+
 ## 📈 Stats
 <p align="center">
 	
