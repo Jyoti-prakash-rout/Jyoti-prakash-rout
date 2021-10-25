@@ -10,6 +10,9 @@
 [![Youtube Badge](https://img.shields.io/badge/-Jyotiprakah%20Rout-darkred?style=flat-square&logo=youtube&logoColor=white&link=https:https://www.youtube.com/channel/UCGdAHESH2emgIHv4I98u8Cg)](https://https://www.youtube.com/channel/UCGdAHESH2emgIHv4I98u8Cg)
 
 
+[![Jyoti's github activity graph](https://activity-graph.herokuapp.com/graph?username=jyoti-prakash-rout&theme=xcode)](https://git.io/jyoti-prakash-rout)
+
+
 
 ## ⚡ Technologies
 
