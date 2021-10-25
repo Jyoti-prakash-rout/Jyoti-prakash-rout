@@ -25,7 +25,9 @@
 
 
 
-![trained_dino](https://user-images.githubusercontent.com/85782825/137858298-48fbbd6e-9052-446b-8a12-9095b2a26715.gif)
+![4ff07986208593 5d9a654e92f36](https://user-images.githubusercontent.com/85782825/138763017-8429bfb4-44aa-49d9-ae7c-4bcf3a3e6de3.gif)
+
+
 
 
 ## ⚡ More about my Coding Life :
