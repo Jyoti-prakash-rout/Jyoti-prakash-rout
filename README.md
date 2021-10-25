@@ -40,5 +40,5 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jyoti-prakash-rout&theme=tokyonight" />
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti-prakash-rout) | ![Jokes Card](https://readme-jokes.vercel.app/api) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti-prakash-rout)      ![Jokes Card](https://readme-jokes.vercel.app/api) 
 
