@@ -42,7 +42,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti-prakash-rout)      ![Jokes Card](https://readme-jokes.vercel.app/api) 
 
-## Watch my contribution graph being eaten by a Snake! 🐍
+## ⚡ Watch my contribution graph being eaten by a Snake! 🐍
+
+
+![snake gif](https://github.com/jyoti-prakash-rout/jyoti-prakash-rout/blob/output/github-contribution-grid-snake.gif)
 
 
 
