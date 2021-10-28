@@ -17,6 +17,7 @@
 ## ⚡ Technologies
 
 ### Language :
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
