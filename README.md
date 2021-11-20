@@ -51,4 +51,9 @@ I'm an Web Dev Enthusiasts & a junior pursuing my Bachelors in Computer Science 
 ![snake gif](https://github.com/jyoti-prakash-rout/jyoti-prakash-rout/blob/output/github-contribution-grid-snake.gif)
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyoti-prakash-rout&label=Profile%20views&color=0e75b6&style=flat" alt="jyoti-prakash-rout" /> </p>
+
+
+
+
 
