@@ -52,11 +52,11 @@ I'm an Web Dev enthusiast & a junior pursuing my Bachelors in Computer Science &
 
 
 
-## ⚡ More about my Coding Life :
+<!-- ## ⚡ More about my Coding Life :
 
 
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f565474414e4b6c306265444651524c4454682f67697068792e676966](https://user-images.githubusercontent.com/85782825/137878929-78f23f18-1d13-4f53-9a5e-88431b0f65a3.gif)
-
+ -->
 ## 📈 Stats
 <p align="center">
 	
