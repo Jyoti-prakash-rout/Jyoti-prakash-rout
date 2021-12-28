@@ -23,6 +23,7 @@ I'm an Web Dev enthusiast & a junior pursuing my Bachelors in Computer Science &
 ## ⚡ Technologies
 
 ### Language :
+
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -30,6 +31,20 @@ I'm an Web Dev enthusiast & a junior pursuing my Bachelors in Computer Science &
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
+### Libraries & Framework :
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-square&logo=tailwind-css&logoColor=white)
+
+
+### DevOps & Cloud Tools:
+
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
 
 
 ![4ff07986208593 5d9a654e92f36](https://user-images.githubusercontent.com/85782825/138763017-8429bfb4-44aa-49d9-ae7c-4bcf3a3e6de3.gif)
