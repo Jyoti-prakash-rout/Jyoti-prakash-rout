@@ -5,7 +5,7 @@
 
 
 
-
+I'm an Web Dev enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. I'm interested in Web Devlopment, Machine Learning & DevOps & I enjoy learning new things & stuff as well as I'm a Frontend Devloper with experience building Dynamic & Static Web pages. I am always interested in learning the answers to how, why, and what relates to the Technologies around me.
 
 
 
