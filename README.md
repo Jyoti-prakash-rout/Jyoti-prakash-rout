@@ -77,6 +77,11 @@ I'm an Web Dev enthusiast & a junior pursuing my Bachelors in Computer Science &
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyoti-prakash-rout&label=Profile%20views&color=0e75b6&style=flat" alt="jyoti-prakash-rout" /> </p>
 
 
+<h3 align="center">
+	⬇ Check my pinned projects below and leave a ⭐️ ⬇
+</h3>
+
+
 
 
 
