@@ -1,6 +1,9 @@
 ## Hi, I am Jyoti! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">  <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> 
 
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front-End+Developer;Open%20Source%20|%20DevOps%20|%20Web+Development;%20Always%20learning%20new%20things&center=true&width=580&height=45"></a>
+</p>
+<hr/>
 
 I'm an Web Dev Enthusiasts & a junior pursuing my Bachelors in Computer Science & Engineering. I'm interested in Web Devlopment, IOS Devlpoment, & Devops & I enjoy learning new things & stuff as well as I'm a Frontend Devloper with experience building Static Web pages. I am always interested in learning the answers to how, why and what relating to Technologies around me.
  
