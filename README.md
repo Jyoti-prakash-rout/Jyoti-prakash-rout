@@ -4,8 +4,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front-End+Developer;Open%20Source%20|%20DevOps%20|%20Web+Development;%20Always%20learning%20new%20things&center=true&width=580&height=45"></a>
 </p>
 <hr/>
+
 I'm an Web Dev Enthusiasts & a junior pursuing my Bachelors in Computer Science & Engineering. I'm interested in Web Devlopment, IOS Devlpoment, & Devops & I enjoy learning new things & stuff as well as I'm a Frontend Devloper with experience building Static Web pages. I am always interested in learning the answers to how, why and what relating to Technologies around me.
-<br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-jyotiprakashrout-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyoti-prakash-rout)](https://www.linkedin.com/in/jyoti-prakash-rout/)
 [![Instagram Badge](https://img.shields.io/badge/-jyotiprakash.rout-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/codeistjoke/)](https://www.instagram.com/codeistjoke/)
 [![Hashnode Badge](https://img.shields.io/badge/-@jyotiprakashrout-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://jyoti-prakash-rout.hashnode.dev/)](https:https://jyoti-prakash-rout.hashnode.dev/)
