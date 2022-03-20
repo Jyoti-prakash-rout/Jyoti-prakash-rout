@@ -49,7 +49,7 @@ I'm an Web Dev Enthusiasts & a junior pursuing my Bachelors in Computer Science 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-square&logo=netlify&logoColor=#00C7B7)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-square&logo=google-cloud&logoColor=white)
-![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-square&logo=gatsby&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-square&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
