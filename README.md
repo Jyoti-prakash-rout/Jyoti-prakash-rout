@@ -5,7 +5,7 @@
 </p>
 <hr/>
 
-
+I'm an Web Dev Enthusiasts & a junior pursuing my Bachelors in Computer Science & Engineering. I'm interested in Web Devlopment, IOS Devlpoment, Devops & I enjoy learning new things & stuff as well as I'm a Frontend Devloper with experience building Static Web pages. I am always interested in learning the answers to how, why and what relating to Technologies around me.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-jyotiprakashrout-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyoti-prakash-rout)](https://www.linkedin.com/in/jyoti-prakash-rout/)
