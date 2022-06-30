@@ -62,6 +62,10 @@ I'm a Web Dev enthusiast & a junior pursuing my Bachelors in Computer Science & 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-square&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-square&logo=yarn&logoColor=white)
 
+### 🎨 Design
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-square&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-square&logo=figma&logoColor=white)
 
 ![4ff07986208593 5d9a654e92f36](https://user-images.githubusercontent.com/85782825/138763017-8429bfb4-44aa-49d9-ae7c-4bcf3a3e6de3.gif)
 
