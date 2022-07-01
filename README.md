@@ -65,6 +65,7 @@ I'm a Web Dev enthusiast & a junior pursuing my Bachelors in Computer Science & 
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-square&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-square&logo=yarn&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-square&logo=githubactions&logoColor=white)
 
 ### 🎨 Design
 
