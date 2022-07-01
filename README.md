@@ -42,15 +42,18 @@ I'm a Web Dev enthusiast & a junior pursuing my Bachelors in Computer Science & 
 ### Libraries & Framework :
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-square&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-square&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-square&logo=SASS&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-square&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-square&logo=express&logoColor=%2361DAFB)
 
 
+
 ### DevOps & Cloud Tools:
 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-square&logo=docker&logoColor=white)
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-square&logo=netlify&logoColor=#00C7B7)
