@@ -51,7 +51,7 @@ I'm a Web Dev enthusiast & a junior pursuing my Bachelors in Computer Science & 
 
 
 
-### DevOps & Cloud Tools:
+### DevOps & Cloud Tools :
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-square&logo=docker&logoColor=white)
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
@@ -67,7 +67,7 @@ I'm a Web Dev enthusiast & a junior pursuing my Bachelors in Computer Science & 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-square&logo=yarn&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-square&logo=githubactions&logoColor=white)
 
-### 🎨 Design:
+### 🎨 Design :
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-square&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-square&logo=figma&logoColor=white)
