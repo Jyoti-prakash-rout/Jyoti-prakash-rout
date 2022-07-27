@@ -2,7 +2,7 @@
 
 
 <p align='center'>
-    <img alt='GIF' src='https://github.com/mrhrifat/mrhrifat/blob/master/gifs/code.gif?raw=true' width='1000' height='500' />
+    <img alt='GIF' src='https://github.com/mrhrifat/mrhrifat/blob/master/gifs/code.gif?raw=true' width='800' height='400' />
 </p>
 
 
