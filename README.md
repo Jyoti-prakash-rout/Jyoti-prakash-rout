@@ -31,7 +31,6 @@ I'm a Web Dev enthusiast & a junior pursuing my Bachelors in Computer Science & 
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-square&logo=typescript&logoColor=white)
@@ -71,6 +70,7 @@ I'm a Web Dev enthusiast & a junior pursuing my Bachelors in Computer Science & 
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-square&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-square&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-square&logo=adobe%20photoshop&logoColor=white)
 
 ### 💻 IDEs/Editors : 
 
