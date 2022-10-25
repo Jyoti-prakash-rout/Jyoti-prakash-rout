@@ -11,7 +11,7 @@
 <a>
 <hr/>
 
-I'm a Web Dev enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. I'm interested in Web Development, IOS development, UI/UX design, and enjoy learning new things. I'm a Frontend Developer with experience building Static Web pages. I am always interested in learning the answers to how, why, and what relates to the Technologies around me.
+
 	
 [![Linkedin Badge](https://img.shields.io/badge/-jyotiprakashrout-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyoti-prakash-rout)](https://www.linkedin.com/in/jyoti-prakash-rout/)
 [![Instagram Badge](https://img.shields.io/badge/-jyotiprakash.rout-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/codeistjoke/)](https://www.instagram.com/codeistjoke/)
