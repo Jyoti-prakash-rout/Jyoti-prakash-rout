@@ -19,11 +19,11 @@ I'm a Web Dev enthusiast & a junior pursuing my Bachelors in Computer Science & 
 [![Gmail Badge](https://img.shields.io/badge/-jyotiprakashrout574@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyotiprakashrout574@gmail.com)](mailto:jyotiprakashrout574@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://jyotiprakashrout-link/)](https:/jyotiprakashrout-link/)
 [![Youtube Badge](https://img.shields.io/badge/-Jyotiprakah%20Rout-darkred?style=flat-square&logo=youtube&logoColor=white&link=https:https://www.youtube.com/channel/UCGdAHESH2emgIHv4I98u8Cg)](https://https://www.youtube.com/channel/UCGdAHESH2emgIHv4I98u8Cg)
-
-<img src="https://activity-graph.herokuapp.com/graph?username=Jyoti-prakash-rout&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-<!-- [![Jyoti's github activity graph](https://activity-graph.herokuapp.com/graph?username=jyoti-prakash-rout&theme=xcode)](https://git.io/jyoti-prakash-rout)
+<!--
+<img src="https://activity-graph.herokuapp.com/graph?username=Jyoti-prakash-rout&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">-->
+<!--[![Jyoti's github activity graph](https://activity-graph.herokuapp.com/graph?username=jyoti-prakash-rout&theme=xcode)](https://git.io/jyoti-prakash-rout)
  -->
-
+ [![Jyoti's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jyoti-prakash-rout&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://git.io/jyoti-prakash-rout)
 
 ## ⚡ Technologies
 
