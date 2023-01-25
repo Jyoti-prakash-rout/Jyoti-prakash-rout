@@ -63,7 +63,7 @@ I'm a Web Dev enthusiast & a junior pursuing my Bachelors in Computer Science & 
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-square&logo=figma&logoColor=white)
 
-### 💻 IDEs/Editors : 
+<!-- ### 💻 IDEs/Editors : 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-square&logo=visual-studio-code&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-square&logo=Replit&logoColor=white)
@@ -71,7 +71,7 @@ I'm a Web Dev enthusiast & a junior pursuing my Bachelors in Computer Science & 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-square&logo=jupyter&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-square&logo=intellij-idea&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-square&logo=atom&logoColor=white)
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-square&logo=codepen&logoColor=black)
+![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-square&logo=codepen&logoColor=black) -->
 
 
 ![4ff07986208593 5d9a654e92f36](https://user-images.githubusercontent.com/85782825/138763017-8429bfb4-44aa-49d9-ae7c-4bcf3a3e6de3.gif)
