@@ -11,6 +11,7 @@
 <a>
 <hr/>
 
+An experienced and highly motivated frontend developer with a strong passion for learning and building web app that provide a great user experience. I am always interested in learning the answers to how, why, and what relates to the Technologies around me.
 	
 [![Linkedin Badge](https://img.shields.io/badge/-jyotiprakashrout-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyoti-prakash-rout)](https://www.linkedin.com/in/jyoti-prakash-rout/)
 [![Instagram Badge](https://img.shields.io/badge/-jyotiprakash.rout-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/codeistjoke/)](https://www.instagram.com/codeistjoke/)
