@@ -33,8 +33,6 @@ An experienced and highly motivated frontend developer with a strong passion for
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-square&logo=mysql&logoColor=white)
 
 ### Libraries & Framework :
 
@@ -45,13 +43,9 @@ An experienced and highly motivated frontend developer with a strong passion for
 
 ### DevOps & Cloud Tools :
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-square&logo=docker&logoColor=white)
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-square&logo=netlify&logoColor=#00C7B7)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-square&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
