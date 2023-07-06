@@ -15,16 +15,11 @@ A beginner and highly motivated front-end developer with a strong passion for le
 
 	
 [![Linkedin Badge](https://img.shields.io/badge/-jyotiprakashrout-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyoti-prakash-rout)](https://www.linkedin.com/in/jyoti-prakash-rout/)
-[![Instagram Badge](https://img.shields.io/badge/-jyotiprakash.rout-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/codeistjoke/)](https://www.instagram.com/codeistjoke/)
-[![Hashnode Badge](https://img.shields.io/badge/-@jyotiprakashrout-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://jyoti-prakash-rout.hashnode.dev/)](https:https://jyoti-prakash-rout.hashnode.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-jyotiprakashrout574@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyotiprakashrout574@gmail.com)](mailto:jyotiprakashrout574@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://jyotiprakashrout-link/)](https:/jyotiprakashrout-link/)
 [![Youtube Badge](https://img.shields.io/badge/-Jyotiprakah%20Rout-darkred?style=flat-square&logo=youtube&logoColor=white&link=https:https://www.youtube.com/channel/UCGdAHESH2emgIHv4I98u8Cg)](https://https://www.youtube.com/channel/UCGdAHESH2emgIHv4I98u8Cg)
-<!--
-<img src="https://activity-graph.herokuapp.com/graph?username=Jyoti-prakash-rout&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">-->
-<!--[![Jyoti's github activity graph](https://activity-graph.herokuapp.com/graph?username=jyoti-prakash-rout&theme=xcode)](https://git.io/jyoti-prakash-rout)
- -->
- [![Jyoti's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jyoti-prakash-rout&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://git.io/jyoti-prakash-rout)
+
+[![Jyoti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jyoti-prakash-rout&bg_color=171617&color=c02a41&line=9b3c2c&point=403d3d&area=true&hide_border=true)](https://github.com/jyoti-prakash-rout/github-readme-activity-graph)
 
 ## ⚡ Technologies
 
