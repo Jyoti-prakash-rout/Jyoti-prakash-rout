@@ -11,6 +11,7 @@
 <a>
 <hr/>
 	
+A beginner and highly motivated front-end developer with a strong passion for learning and building web apps that provide a great user experience. I am always interested in learning the answers to how, why, and what relates to the Technologies around me.
 
 	
 [![Linkedin Badge](https://img.shields.io/badge/-jyotiprakashrout-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyoti-prakash-rout)](https://www.linkedin.com/in/jyoti-prakash-rout/)
