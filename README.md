@@ -16,6 +16,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-jyotiprakashrout-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyoti-prakash-rout)](https://www.linkedin.com/in/jyoti-prakash-rout/)
 [![Gmail Badge](https://img.shields.io/badge/-jyotiprakashrout574@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyotiprakashrout574@gmail.com)](mailto:jyotiprakashrout574@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://jyotiprakashrout-link/)](https:/jyotiprakashrout-link/)
+[![Instagram Badge](https://img.shields.io/badge/-PssportDiaries-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/passportdiaaries/)](https://www.instagram.com/passportdiaaries/)
 
 [![Jyoti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jyoti-Prakash-rout&bg_color=171617&color=c02a41&line=9b3c2c&point=403d3d&area=true&hide_border=true)](https://github.com/jyoti-prakash-rout/github-readme-activity-graph)
 
