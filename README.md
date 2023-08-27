@@ -32,6 +32,8 @@
 ### Libraries & Framework :
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![NextJs](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-square&logo=nextdotjs&logoColor=white)
+[Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-square&logo=Tailwind-CSS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-square&logo=SASS&logoColor=white)
 
