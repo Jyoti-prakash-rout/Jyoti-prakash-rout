@@ -11,7 +11,6 @@
 <a>
 <hr/>
 	
-JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 [![Linkedin Badge](https://img.shields.io/badge/-jyotiprakashrout-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyoti-prakash-rout)](https://www.linkedin.com/in/jyoti-prakash-rout/)
 [![Gmail Badge](https://img.shields.io/badge/-jyotiprakashrout574@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyotiprakashrout574@gmail.com)](mailto:jyotiprakashrout574@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://jyotiprakashrout-link/)](https:/jyotiprakashrout-link/)
