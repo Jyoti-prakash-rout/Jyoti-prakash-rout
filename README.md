@@ -11,7 +11,7 @@
 <a>
 <hr/>
 	
-#### I'm a Junior Frontend Developer with a strong passion for developing web applications with great user experience.
+#### I'm a Junior Frontend Developer with a strong passion for developing web appications with great user experience.
 	
 [![Linkedin Badge](https://img.shields.io/badge/-jyotiprakashrout-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyoti-prakash-rout)](https://www.linkedin.com/in/jyoti-prakash-rout/)
 [![Gmail Badge](https://img.shields.io/badge/-jyotiprakashrout574@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyotiprakashrout574@gmail.com)](mailto:jyotiprakashrout574@gmail.com)
