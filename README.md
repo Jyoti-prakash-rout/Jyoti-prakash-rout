@@ -5,7 +5,6 @@
     <img alt='GIF' src='https://github.com/mrhrifat/mrhrifat/blob/master/gifs/code.gif?raw=true' width='600' height='300' />
 </p>
 
-#### I'm a Junior Frontend Developer with a strong passion for developing web applications with great user experience.
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;%20WEB+APP+DEV%20|%20MOBILE+APP+DEV%20|%20UI/UX+DESIGN;%20Always%20learning%20new%20things!&center=true&width=580&height=45"></a>
