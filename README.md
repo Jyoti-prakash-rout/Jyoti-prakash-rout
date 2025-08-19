@@ -22,6 +22,8 @@
 
 ## ⚡ Technologies
 
+
+<!--
 ### Language :
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -50,6 +52,8 @@
 ### 🎨 Design :
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-square&logo=figma&logoColor=white)
+
+-->
 
 <!-- ### 💻 IDEs/Editors : 
 
