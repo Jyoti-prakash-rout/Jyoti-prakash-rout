@@ -1,8 +1,8 @@
 ## Hi, I am Jyoti! Great to see you here! 👋🏻  <!--<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> --> <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> 
 
-🌍  I am a Front-End Developer based in India.
+ <h4> 🌍 I am a Front-End Developer based in India. </h4>
 <br/>
-💻  Open to work!
+ <h5> 💻 Open to work! </h5>
 <br/>
 
 ### Tech stack
